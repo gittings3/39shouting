@@ -6,8 +6,7 @@
  参数如下：  
 |  Name | Value  |
 | ENABLE_UNICOM  | 直接填写 true |
-| UNICOM_APPID  | 填写获取的 appid |
-| UNICOM_USER  | 手机号 |  
+  
 
 #### 添加以上数据之后，进入 action ，点击 star 开始运行   
 #### 如果未运行，随便找一个文件修改
