@@ -5,7 +5,6 @@
  ### fork 好后，点击 Settings 、 secrets 、 New repository secrets 进行添加相关数据
  参数如下：  
 |  Name | Value  |
-| ENABLE_UNICOM  | 直接填写
 
 #### 添加以上数据之后，进入 action ，点击 star 开始运行   
 #### 如果未运行，随便找一个文件修改
